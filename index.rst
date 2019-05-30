@@ -6,7 +6,7 @@
 Welcome to pro's documentation!
 ===============================
 
-version 2
+version 3
 
 .. toctree::
    :maxdepth: 2
